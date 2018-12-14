@@ -1,0 +1,27 @@
+[
+  {
+        "voorstellingNaam": "Onze straat",
+        "voorstellingOmschrijving": "Onze straat gaat over een straat, ergens in een stad in Nederland. Een straat zoals er duizenden zijn, met een avondwinkel, een wasserette en bewoners die wel een voordeur maar niet hun leven delen. In drie grote scènes zien we hoe de tijd door de straat heen trekt. Gedurende de avond leren we tien bewoners uit één appartementencomplex kennen, we zien hoe hun levens zich in twaalf jaar ontwikkelen. En hoe om hen heen de straat verandert: mensen verhuizen, er ontstaan liefdes, kinderen worden geboren, ouderen sterven. Alles verandert, maar het leven gaat door.",
+        "rating": "7.00",
+        "locatie": "Koninklijke Schouwburg",
+        "kaartVerkoop":"https://www.hnt.nl/voorstellingen/1428/Het_Nationale_Theater_i_s_m_Adelheid_amp_Zina/Onze_Straat/"
+    },{
+        "voorstellingNaam": "Het Duel",
+        "voorstellingOmschrijving": "Jeroen De Man (Ondertussen in Casablanca, Ondine) regisseert Het duel, een toneelbewerking van de beroemde novelle van Anton Tsjechov, met in de hoofdrollen Joris Smit en Jacob Derwig. Een koortsachtige toneelavond als een speelfilm, waarin acht acteurs de strijd om het ‘goede leven’ met een geladen pistool uitvechten.",
+        "rating": "8.16",
+        "locatie": "Koninklijke Schouwburg",
+        "kaartVerkoop":"https://www.hnt.nl/voorstellingen/1424/Het_Nationale_Theater/Het_duel/"
+    },{
+        "voorstellingNaam": "Robotje",
+        "voorstellingOmschrijving": "“Een heerlijk visueel avontuur, een beeldverhaal dat jong en oud gekluisterd houdt.”  ★★★★ Scenes ",
+        "rating": "9.19",
+        "locatie": "Koninklijke Schouwburg",
+        "kaartVerkoop":"https://www.hnt.nl/voorstellingen/1810/NTjong/Robotje_6_/"
+    } ,{
+        "voorstellingNaam": "revolutions",
+        "voorstellingOmschrijving": "De Toekomst. Er is geen minister-president meer, maar een CEO. Iedereen heeft z'n eigen persoonlijke hologram-assistent en meer streams en experiences dan hij kan wensen. We zijn gelukkiger dan ooit. Zeggen ze.",
+        "rating": "8.16",
+        "locatie": "Koninklijke Schouwburg",
+        "kaartVerkoop":"https://www.hnt.nl/voorstellingen/2004/NTjong/Revolutions_12_/"
+    } 
+]
